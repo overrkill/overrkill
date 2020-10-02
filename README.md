@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Developer </h3>
+
+<img src="./github-banner.gif" alt="overrkill-banner" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overrkill" alt="overrkill" /> </p>
 
