@@ -1,16 +1,15 @@
 
 <img src="./github-banner.gif" alt="overrkill-banner" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=overrkill" alt="overrkill" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill" alt="overrkill" /> </p>
 
-Currently working with RUST , available to collaborate on projects reach me on [zabhishekkale@gmail.com](zabhishekkale@gmail.com)  
 <p align="center">
-<h3 align="center">Active on </h3>
+Currently working with RUST , available to collaborate on innovative projects reach me on [zabhishekkale@gmail.com](zabhishekkale@gmail.com)  
+</p>
 
-<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-
+<h3 align="center">DM me here, </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </p>
 
 
