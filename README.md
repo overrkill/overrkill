@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill" alt="overrkill" /> </p>
 
 <p align="center">
-Currently working with RUST , available to collaborate on innovative projects reach me on [zabhishekkale@gmail.com](zabhishekkale@gmail.com)  
+Currently working with RUST , available to collaborate on innovative projects reach me on **zabhishekkale@gmail.com**  
 </p>
 
 <h3 align="center">DM me here, </h3>
@@ -12,7 +12,7 @@ Currently working with RUST , available to collaborate on innovative projects re
 <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </p>
 
-
+<h3 align="center">comfortable around </h3>
 <p align="center"> 
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
