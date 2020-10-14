@@ -3,22 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overrkill" alt="overrkill" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+Currently working with RUST , available to collaborate on projects reach me on [zabhishekkale@gmail.com](zabhishekkale@gmail.com)  
+<p align="center">
+<h3 align="center">Active on </h3>
 
-- 👨‍💻 All of my projects are available at [overrkill.github.io](overrkill.github.io)
+<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 
-- 📝 I regulary write articles on [abhishekkale.me/quill](abhishekkale.me/quill)
-
-- 💬 Ask me about **C++,Python,Javascript**
-
-- 📫 How to reach me **zabhishekkale@gmail.com**
-
-- ⚡ Fun fact **sun is a star**
-
-<p align="left">
-<h3 align="center">Connect with me:</h3>
-<a href="https://linkedin.com/in/kaleabhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaleabhishek" height="30" width="40" /></a>
-<a href="https://instagram.com/abhi.ki.baatein" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="abhi.ki.baatein" height="30" width="40" /></a>
 </p>
 
 
@@ -28,6 +20,13 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <!--START_SECTION:waka-->
