@@ -4,9 +4,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill" alt="overrkill" /> </p>
 
 
-Currently working with / learing ***Rust*** 
-available to ***collaborate*** on innovative projects reach me on ✍️ **zabhishekkale@gmail.com** 
-*Every **progrmammer** is an **Author***  
+Currently working with / learing ***Rust***<br> 
+available to ***collaborate*** on innovative projects reach me on ✍️ **zabhishekkale@gmail.com**<br> 
+*Every **progrmammer** is an **Author***  <br>
 **Portfolio** [overrkill.github.io](https://overrkill.github.io) 
 
 <h3 align="center">DM me here, </h3>
