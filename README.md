@@ -32,6 +32,8 @@ Every **progrmammer** is an **Author**  <br>
 
 <!--START_SECTION:waka-->
 ```text
+Week: 07 October, 2020 - 14 October, 2020
+
 Markdown   1 hr 43 mins    ████████████████████▒░░░░   81.28 % 
 C++        20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 Lua        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
