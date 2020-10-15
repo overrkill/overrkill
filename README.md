@@ -31,4 +31,9 @@ Every **progrmammer** is an **Author**  <br>
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Markdown   1 hr 43 mins    ████████████████████▒░░░░   81.28 % 
+C++        20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Lua        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+```
 <!--END_SECTION:waka-->
