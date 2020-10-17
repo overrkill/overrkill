@@ -32,12 +32,12 @@ Every **progrmammer** is an **Author**  <br>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2020 - 15 October, 2020
+Week: 09 October, 2020 - 16 October, 2020
 
-Markdown   1 hr 50 mins    ████████░░░░░░░░░░░░░░░░░   31.78 % 
-Lua        1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.54 % 
-Python     1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.05 % 
-C++        1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-YAML       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Markdown   1 hr 50 mins    ███████▓░░░░░░░░░░░░░░░░░   30.01 % 
+Python     1 hr 37 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.40 % 
+Lua        1 hr 18 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.28 % 
+C++        1 hr 8 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.65 % 
+YAML       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 <!--END_SECTION:waka-->
