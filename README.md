@@ -1,5 +1,5 @@
 
-<img src="./github-banner.gif" alt="overrkill-banner" />
+<img src="./github_banner_overrkill.gif" alt="overrkill-banner" />
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill" alt="overrkill" /> </p>
 
