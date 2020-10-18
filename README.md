@@ -9,13 +9,13 @@ Available to **collaborate** on innovative projects reach me on ✍️ **zabhish
 Every **progrmammer** is an **Author**  <br>
 **Portfolio** [overrkill.github.io](https://overrkill.github.io) 
 
-<h3 align="center">DM me here, </h3>
-<p align="center">
+<h3 >DM me here, </h3>
+<p >
 <img src="https://img.shields.io/badge/abhishek%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </p>
 
-<h3 align="center"> Stuff I know, </h3>
-<p align="center"> 
+<h3 > Stuff I know, </h3>
+<p > 
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
