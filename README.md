@@ -4,10 +4,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill&color=bd93f9&style=flat-square&label=VIEWS" alt="overrkill" /> </p>
 
 
-Currently learning **Rust**<br> 
-Available to **collaborate** on innovative projects reach me on ✍️ **zabhishekkale@gmail.com**<br> 
-Every **progrmammer** is an **Author**  <br>
-**Portfolio** [overrkill.github.io](https://overrkill.github.io) 
+- 🌱 Currently learning **Rust**<br> 
+- 💻 Available to **collaborate** on innovative projects 
+- 📧 write me at *[email](zabhishekkale@gmail.com)* <br> 
+- 📌 Every **progrmammer** is an **Author**  <br>
+- ✔️ **Portfolio** [overrkill.github.io](https://overrkill.github.io) 
 
 <h3 >DM me here, </h3>
 <p >
