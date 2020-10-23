@@ -35,12 +35,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2020 - 21 October, 2020
+Week: 15 October, 2020 - 22 October, 2020
 
-Markdown   3 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.62 % 
-HTML       2 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Python     2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-YAML       1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Lua        1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Markdown   3 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.89 % 
+HTML       2 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.35 % 
+YAML       2 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+TOML       1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Python     52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 ```
 <!--END_SECTION:waka-->
