@@ -6,15 +6,15 @@
 
 - 🌱 Currently learning **Rust**<br> 
 - 💻 Available to **collaborate** on innovative projects 
-- 📧 write me at *[email](zabhishekkale@gmail.com)* <br> 
+- 📧 write me at *[zabhishekkale@gmail.com](zabhishekkale@gmail.com)* <br> 
 - 📌 Every **progrmammer** is an **Author**  <br>
-- ✔️ **Portfolio** [overrkill.github.io](https://overrkill.github.io) 
+- ✔️ **Portfolio** [abhishekkale.me](https://abhishekkale.me) 
 
 <h3 >DM me here, </h3>
 <p >
-<img src="https://img.shields.io/badge/abhishek%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<a href="https://instagram.com/overrkill.ig"><img src="https://img.shields.io/badge/abhishek%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kaleabhishek"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://hackerrank.com/zabhishekkale"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
 <h3 > My Skills , </h3>
