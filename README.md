@@ -1,12 +1,12 @@
 
 <img src="./github_banner_overrkill.gif" alt="overrkill-banner" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill&color=bd93f9&style=flat-square&label=VIEWS" alt="overrkill" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill&color=2d455c&style=flat-square&label=VIEWS" alt="overrkill" /> </p>
 
 
-- 🌱 Currently learning **Rust**<br> 
+- 🌱 Currently learning **Kotlin**<br> 
 - 💻 Available to **collaborate** on innovative projects 
-- 📧 write me at *[zabhishekkale@gmail.com](zabhishekkale@gmail.com)* <br> 
+- 📧 write me at *[zabhishekkale@gmail.com](mailto://zabhishekkale@gmail.com)* <br> 
 - 📌 Every **progrmammer** is an **Author**  <br>
 - ✔️ **Portfolio** [abhishekkale.me](https://abhishekkale.me) 
 
