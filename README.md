@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
 C++          51 mins         ██████████░░░░░░░░░░░░░░░   40.65 % 
 JavaScript   32 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.63 % 
