@@ -35,12 +35,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 October, 2020 - 01 November, 2020
+Week: 26 October, 2020 - 02 November, 2020
 
-C++          51 mins         ██████████░░░░░░░░░░░░░░░   40.65 % 
-JavaScript   32 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.63 % 
-Markdown     30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-YAML         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+JavaScript   32 mins         ██████████████████████░░░   88.59 % 
+Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+C++          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 <!--END_SECTION:waka-->
