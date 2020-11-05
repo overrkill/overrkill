@@ -35,10 +35,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2020 - 03 November, 2020
+Week: 28 October, 2020 - 04 November, 2020
 
-JavaScript   32 mins         ██████████████████████░░░   88.59 % 
-Markdown     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-C++          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown     3 mins          ███████████░░░░░░░░░░░░░░   44.04 % 
+JavaScript   2 mins          ██████████▒░░░░░░░░░░░░░░   40.91 % 
+C++          1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 ```
 <!--END_SECTION:waka-->
