@@ -35,12 +35,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2020 - 09 November, 2020
+Week: 03 November, 2020 - 10 November, 2020
 
-JavaScript   3 hrs 12 mins   ████████████████████▓░░░░   83.25 % 
-Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-Other        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JavaScript   3 hrs 40 mins   ████████████████████▓░░░░   82.87 % 
+Other        19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 <!--END_SECTION:waka-->
