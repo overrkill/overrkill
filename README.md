@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2020 - 12 November, 2020
+Week: 06 November, 2020 - 13 November, 2020
 
 JavaScript   9 hrs 43 mins   ████████████████████▓░░░░   82.05 % 
 JSX          42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
