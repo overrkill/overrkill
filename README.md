@@ -35,11 +35,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2020 - 28 November, 2020
+Week: 22 November, 2020 - 29 November, 2020
 
-HTML         1 hr 12 mins    █████████████████▒░░░░░░░   69.06 % 
-JSON         26 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.50 % 
-PowerShell   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Python       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+HTML         1 hr 12 mins    ██████████▓░░░░░░░░░░░░░░   42.62 % 
+Python       1 hr 3 mins     █████████▒░░░░░░░░░░░░░░░   37.61 % 
+JSON         26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+PowerShell   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Batchfile    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
