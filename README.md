@@ -1,23 +1,23 @@
 
 <img src="./OVERRKILL.gif" alt="overrkill-banner" />
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill&color=bd93f9&style=flat-square&label=VIEWS" alt="overrkill" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill&color=2d455c&style=flat-square&label=VIEWS" alt="overrkill" /> </p>
 
 
-- 🌱 Currently learning **Rust**<br> 
+- 🌱 Currently learning **Kotlin**<br> 
 - 💻 Available to **collaborate** on innovative projects 
-- 📧 write me at *[email](zabhishekkale@gmail.com)* <br> 
+- 📧 write me at *[zabhishekkale@gmail.com](mailto://zabhishekkale@gmail.com)* <br> 
 - 📌 Every **progrmammer** is an **Author**  <br>
-- ✔️ **Portfolio** [overrkill.github.io](https://overrkill.github.io) 
+- ✔️ **Portfolio** [abhishekkale.me](https://abhishekkale.me) 
 
 <h3 >DM me here, </h3>
 <p >
-<img src="https://img.shields.io/badge/abhishek%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<a href="https://instagram.com/overrkill.ig"><img src="https://img.shields.io/badge/abhishek%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kaleabhishek"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://hackerrank.com/zabhishekkale"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
 
-<h3 > Stuff I know, </h3>
+<h3 > My Skills , </h3>
 <p > 
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -35,12 +35,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2020 - 17 October, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
-Python     2 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Markdown   1 hr 50 mins    ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-Lua        1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-C++        1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.36 % 
-YAML       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+JavaScript   1 hr 49 mins    ████████░░░░░░░░░░░░░░░░░   31.72 % 
+Python       1 hr 45 mins    ███████▓░░░░░░░░░░░░░░░░░   30.49 % 
+HTML         1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.98 % 
+Other        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+JSON         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 ```
 <!--END_SECTION:waka-->
