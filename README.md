@@ -1,5 +1,5 @@
 
-<img src="./OVERRKILL.png" alt="overrkill-banner" />
+<img src="./overrkill_banner.png" alt="overrkill-banner" />
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=overrkill&color=2d455c&style=flat-square&label=VIEWS" alt="overrkill" /> </p>
 
