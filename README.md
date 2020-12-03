@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2020 - 01 December, 2020
+Week: 25 November, 2020 - 02 December, 2020
 
 JavaScript   1 hr 49 mins    ███████▓░░░░░░░░░░░░░░░░░   30.85 % 
 Python       1 hr 45 mins    ███████▒░░░░░░░░░░░░░░░░░   29.79 % 
