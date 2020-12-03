@@ -1,5 +1,5 @@
 
-<img src="./overrkill_banner.png" alt="overrkill-banner" />
+<img src="./new_overrkill_banner.png" alt="overrkill-banner" />
 
 <p align="center"> <img src="https://profile-counter.glitch.me/{overrkill}/count.svg" alt="overrkill" /> </p>
 
