@@ -1,11 +1,22 @@
+#### Hi there, I am [Abhishek](https://github.com/overrkill) 
+```
+aka
+   ____                       __   _ ____
+  / __ \_   _____  __________/ /__(_) / /
+ / / / / | / / _ \/ ___/ ___/ //_/ / / / 
+/ /_/ /| |/ /  __/ /  / /  / ,< / / / /  
+\____/ |___/\___/_/  /_/  /_/|_/_/_/_/   
 
-<img src="./new_overrkill_banner.png" alt="overrkill-banner" />
+```
+Quick fix : [run some random script on internet](https://abhishekkale.me)
 
-<p align="center"> <img src="https://profile-counter.glitch.me/{overrkill}/count.svg" alt="overrkill" /> </p>
+```
+cat me.txt 
+- IT Engineer
+- Linux Enthusiast
+- always adding to my configs (o-o) 
+```
+have a look at
+- [dot-config](https://github.com/overrkill/dot-config)
+- [falling-stones](https://github.com/overrkill/falling-stones)
 
-<table >
-<tr>
-<td ><img src="https://github-readme-stats.vercel.app/api?username=overrkill&show_icons=true&theme=shades-of-purple&hide_border=true" alt="overrkill-banner" height="200px" /></td>
-<td ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=overrkill&hide=html,css&theme=shades-of-purple&hide_border=true" alt="overrkill-banner" height="200px" /></td>
-</tr>
-</table>
