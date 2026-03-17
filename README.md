@@ -1,22 +1,23 @@
-#### Hi there, I am [Abhishek](https://github.com/overrkill) 
-```
-aka
-   ____                       __   _ ____
-  / __ \_   _____  __________/ /__(_) / /
- / / / / | / / _ \/ ___/ ___/ //_/ / / / 
-/ /_/ /| |/ /  __/ /  / /  / ,< / / / /  
-\____/ |___/\___/_/  /_/  /_/|_/_/_/_/   
+## Hi, I'm Abhishek
 
-```
-Quick fix : [run some random script on internet](https://abhishekkale.me)
+Backend engineer with 5 years of experience building APIs, 
+real-time systems, and production applications.
 
-```
-cat me.txt 
-- IT Engineer
-- Linux Enthusiast
-- always adding to my configs (o-o) 
-```
-have a look at
-- [dot-config](https://github.com/overrkill/dot-config)
-- [falling-stones](https://github.com/overrkill/falling-stones)
+**What I work with:**
+- Languages: Node.js,Python,Java,C++
+- Databases: PostgreSQL, Firebase/Firestore
+- APIs: REST, real-time systems,GraphQL
+- Tools: Git, Docker
 
+**Currently building:**
+- [] — a URL shortener with analytics 
+  and rate limiting (WIP)
+
+**Background:**
+3 years backend engineering in a corporate environment, 
+followed by 2 years freelancing including a production 
+app shipped to the App Store for a client.
+
+Open to remote backend engineering roles.
+
+📫 [abhishekkale.app@gmail.com]
