@@ -4,10 +4,10 @@ Backend engineer with 5 years of experience building APIs,
 real-time systems, and production applications.
 
 **What I work with:**
-- Languages: Node.js,Python,Java,C++
+- Languages:Typescript,Javascript,Java,C++
 - Databases: PostgreSQL, Firebase/Firestore
 - APIs: REST, real-time systems,GraphQL
-- Tools: Git, Docker
+- Tools: Node.js, Git, Docker
 
 **Currently building:**
 - [] — a URL shortener with analytics 
