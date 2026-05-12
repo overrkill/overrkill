@@ -10,8 +10,7 @@ real-time systems, and production applications.
 - Tools: Node.js, Git, Docker
 
 **Currently building:**
-- [] — a URL shortener with analytics 
-  and rate limiting (WIP)
+- [] — Rwote - an Ai first note taking app with function over form
 
 **Background:**
 3 years backend engineering in a corporate environment, 
