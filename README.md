@@ -1,16 +1,11 @@
 ## Hi, I'm Abhishek
 
-Backend engineer with 5 years of experience building APIs, 
-real-time systems, and production applications.
+I'm a fullstack developer with **5+ years of Experience** building apps that are both pretty and fast.
+I use **React, React Native, Astro, Next.js, Tailwind CSS** and alot of other UI Frameworks to create polished Experiences.
 
-**What I work with:**
-- Languages:Typescript,Javascript,Java,C++
-- Databases: PostgreSQL, Firebase/Firestore
-- APIs: REST, real-time systems,GraphQL
-- Tools: Node.js, Git, Docker
-
-**Currently building:**
-- [] — Rwote - an Ai first note taking app with function over form
+- Curretly Building **"Rwote"** - a note taking app for messy perfectionists
+- I spend hours optimizing my **DEs & WMs** on linux
+- If i'm not doing any of these then you might find me playing with my cutiepie 🐶
 
 **Background:**
 3 years backend engineering in a corporate environment, 
